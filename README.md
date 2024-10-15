@@ -1,2 +1,2 @@
 david louis
-https://github.com/davidlouis17/CV-html/tree/main
+https://roadmap.sh/projects/single-page-cv
