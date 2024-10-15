@@ -1,2 +1,1 @@
-david louis
-https://roadmap.sh/projects/single-page-cv
+https://github.com/davidlouis17/CV-html
